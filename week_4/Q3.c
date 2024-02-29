@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 int main()
 {
     int n ,count;
@@ -29,13 +29,4 @@ int main()
             printf("%d ",arr[i]);
         }
     }
-}*/
-#include <stdio.h>
-int main()
-{
-    char S [100] = "";
-    scanf ("%s", &S);
-    printf("Hello, world!");
-    printf("\n%s",S);
-
 }
