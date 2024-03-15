@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main()
 {
     int n ,count;
@@ -29,4 +29,5 @@ int main()
             printf("%d ",arr[i]);
         }
     }
-}
+}*/
+
