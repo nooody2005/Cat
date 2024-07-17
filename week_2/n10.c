@@ -1,3 +1,9 @@
+/*Write a C that asks the user to enter his ID and his password, if the ID is correct the
+system will ask the user to enter his password up to 3 times, if he enters the password
+right the system welcomes him, if the three times are incorrect, the system prints "No
+more tries". The system prints "You are not registered" on every wrong try. (Login
+code)*/
+
 #include <stdio.h>
 int main()
 {

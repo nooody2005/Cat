@@ -1,3 +1,5 @@
+/*Write a C code swap two global variables through a function.*/
+
 #include <stdio.h>
 int x , y ;
 

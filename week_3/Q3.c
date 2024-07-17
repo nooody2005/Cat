@@ -1,3 +1,5 @@
+/*Write a C code that gets the number of the digits in a given number.*/
+
 #include <stdio.h>
 int count_fun(int num)
 {

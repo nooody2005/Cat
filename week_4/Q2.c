@@ -1,3 +1,6 @@
+/*Write a program in C to find the second largest element in an array.
+The elements of the array entered by the user.*/
+
 #include <stdio.h>
 int main()
 {

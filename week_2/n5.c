@@ -1,3 +1,6 @@
+/*Write a C code that asks the user to enter 3 numbers, the program will print the
+maximum number of them.*/
+
 #include <stdio.h>
 int main()
 {

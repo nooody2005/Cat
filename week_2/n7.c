@@ -1,3 +1,5 @@
+/*Write C code to read 10 numbers from the user and find their summation and average.*/
+
 #include  <stdio.h>
 int main()
 {

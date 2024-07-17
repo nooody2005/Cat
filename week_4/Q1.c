@@ -1,3 +1,7 @@
+/*Write a program in C to sort elements of an array in ascending and descending order :
+The User Enter 0 for ascending or Enter 1 for descending. The elements of the array
+entered by the user.*/
+
 #include <stdio.h>
 int main()
 {

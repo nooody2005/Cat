@@ -1,3 +1,5 @@
+/*Write a code that scans 3 numbers from the user and prints them in reversed order.*/
+
 #include <stdio.h>
 int main()
 {

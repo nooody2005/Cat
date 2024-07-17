@@ -1,3 +1,7 @@
+/*Write a C code containing a function that gets the fibonacci of a given number.
+Hint: Fibonacci is defined as :
+f(n) = f(n - 1) + F(n - 2), f(0) = 0, f(1) = 1.*/
+
 #include <stdio.h>
 int fibonacci(int num)
 {

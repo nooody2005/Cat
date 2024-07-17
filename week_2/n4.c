@@ -1,3 +1,6 @@
+/*Write a C code that asks the user to enter his grade and the program will print his rating.
+(Excellent, very good,...,etc). %-based system*/
+
 #include <stdio.h>
 int main()
 {

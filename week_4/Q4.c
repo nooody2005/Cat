@@ -1,3 +1,6 @@
+/*Write a C code to find the repeating element in a given array through a function. The
+function takes the array and returns the element.*/
+
 #include <stdio.h>
 int arr_fn(int arr[],int n)
 {
@@ -6,7 +9,7 @@ int arr_fn(int arr[],int n)
         for (int j=0; j < n ;j++)
         {
             if (i==j)
-            continue;;
+            continue;
             
             if(arr[i]==arr[j])
             {

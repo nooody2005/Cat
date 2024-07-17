@@ -1,3 +1,6 @@
+/*Write a c code login code but use a function called login.
+Hint: surprise me 😊*/
+
 #include <stdio.h>
 int login()
 {

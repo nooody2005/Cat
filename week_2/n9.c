@@ -1,3 +1,5 @@
+/*Write a C to calculate the factorial of an integer entered by the user using a while loop.*/
+
 #include <stdio.h>
 int main()
 {

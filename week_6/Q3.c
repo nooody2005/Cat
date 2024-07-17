@@ -1,4 +1,6 @@
-//3-Write a C program to find reverse of a given string using loop. How to find reverse of any given string using loop in C programming.
+/*3-Write a C program to find reverse of a given string using loop.
+How to find reverse of any given string using loop in C programming.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

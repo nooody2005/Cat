@@ -1,4 +1,5 @@
-//4-Write a C program to input any string from user and find the first occurrence of a given character in the string. 
+/*4-Write a C program to input any string from user and 
+find the first occurrence of a given character in the string.*/ 
 
 #include <stdio.h>
 #include <stdlib.h>

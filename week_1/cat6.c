@@ -1,3 +1,6 @@
+/*Write a code that takes 2 numbers and print the arithmetical, logical and bitwise
+operations.*/
+
 #include <stdio.h>
 int main()
 {

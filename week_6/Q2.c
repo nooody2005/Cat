@@ -1,4 +1,6 @@
-//2-Write a C program to count total number of alphabets, digits or special characters in a string using loop. 
+/*2-Write a C program to count total number of alphabets, digits 
+or special characters in a string using loop.*/ 
+
 #include <stdio.h>
 
 int main() 
